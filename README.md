@@ -1,4 +1,5 @@
 # mobile-android-app
+A WeatherApp.
 A school project that has the following requirements:
     -an input form
     -a list of items
